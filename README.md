@@ -23,6 +23,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 52 | [N-Queens II](./Backtracking/N-Queens%20II/) | Hard |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>

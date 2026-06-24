@@ -35,6 +35,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Hash Table
+<details>
+<summary>Click to expand Hash Table problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2516 | [Take K of Each Character From Left and Right](./Hash%20Table/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/) | Medium |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>

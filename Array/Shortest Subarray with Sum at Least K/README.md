@@ -1,51 +1,34 @@
 # 862. Shortest Subarray with Sum at Least K
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=flat-square)
 
 ## Problem Statement
 
-Given an integer array nums and an integer k, return the length of the shortest non-empty subarray of nums with a sum of at least k. If there is no such subarray, return -1.
+<p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the length of the shortest non-empty <strong>subarray</strong> of </em><code>nums</code><em> with a sum of at least </em><code>k</code>. If there is no such <strong>subarray</strong>, return <code>-1</code>.</p>
 
-A subarray is a contiguous part of an array.
+<p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
 
- 
-Example 1:
-Input: nums = [1], k = 1
-Output: 1
-Example 2:
-Input: nums = [1,2], k = 4
-Output: -1
-Example 3:
-Input: nums = [2,-1,2], k = 3
-Output: 3
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+<pre><strong>Input:</strong> nums = [1], k = 1
+<strong>Output:</strong> 1
+</pre><p><strong class="example">Example 2:</strong></p>
+<pre><strong>Input:</strong> nums = [1,2], k = 4
+<strong>Output:</strong> -1
+</pre><p><strong class="example">Example 3:</strong></p>
+<pre><strong>Input:</strong> nums = [2,-1,2], k = 3
+<strong>Output:</strong> 3
+</pre>
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
+	<li><code>1 &lt;= k &lt;= 10<sup>9</sup></code></li>
+</ul>
 
-
-	1 <= nums.length <= 105
-	-105 <= nums[i] <= 105
-	1 <= k <= 109
-
-## Examples
-
-```
-Input: nums = [1], k = 1
-Output: 1
-
-Input: nums = [1,2], k = 4
-Output: -1
-
-Input: nums = [2,-1,2], k = 3
-Output: 3
-```
-
-## Constraints
-
-- 1 <= nums.length <= 105
-- -105 <= nums[i] <= 105
-- 1 <= k <= 109
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

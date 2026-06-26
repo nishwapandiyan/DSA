@@ -12,36 +12,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
+### Binary Search
 <details>
-<summary>Click to expand Array problems</summary>
+<summary>Click to expand Binary Search problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 51 | [N-Queens](./Array/N-Queens/) | Hard |
-| 862 | [Shortest Subarray with Sum at Least K](./Array/Shortest%20Subarray%20with%20Sum%20at%20Least%20K/) | Hard |
-
-</details>
-
-
-### Backtracking
-<details>
-<summary>Click to expand Backtracking problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 52 | [N-Queens II](./Backtracking/N-Queens%20II/) | Hard |
-
-</details>
-
-
-### Hash Table
-<details>
-<summary>Click to expand Hash Table problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 2516 | [Take K of Each Character From Left and Right](./Hash%20Table/Take%20K%20of%20Each%20Character%20From%20Left%20and%20Right/) | Medium |
+| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
 </details>
 

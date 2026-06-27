@@ -11,5 +11,5 @@ class Solution:
             elif nums[mid] < nums[high]:
                 high = mid
             else:
-                high = mid-1    
+                high -= 1  
         return nums[low]            

@@ -25,6 +25,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
 | 852 | [Peak Index in a Mountain Array](./Array/Peak%20Index%20in%20a%20Mountain%20Array/) | Medium |
 | 875 | [Koko Eating Bananas](./Array/Koko%20Eating%20Bananas/) | Medium |
+| 1011 | [Capacity To Ship Packages Within D Days](./Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days/) | Medium |
 
 </details>
 

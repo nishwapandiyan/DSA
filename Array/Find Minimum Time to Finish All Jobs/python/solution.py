@@ -5,8 +5,8 @@ class Solution:
           return max(jobs)
         else:
             maxx = 0
-            for i in range(n-1):
-                cur = jobs[i] + jobs[i+k-1]
+            for i in range(1,n-1):
+                cur = jobs[i-1] + jobs[i]
                 if cur <= n*2 + 1:
                   maxx = max(maxx,cur)
         return maxx        

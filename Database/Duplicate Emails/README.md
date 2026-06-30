@@ -5,9 +5,8 @@
 
 ## Problem Statement
 
-<p>Table: <code>Person</code></p>
+Table: Person
 
-<pre>
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
@@ -16,21 +15,20 @@
 +-------------+---------+
 id is the primary key (column with unique values) for this table.
 Each row of this table contains an email. The emails will not contain uppercase letters.
-</pre>
 
-<p>&nbsp;</p>
 
-<p>Write a solution to report all the duplicate emails. Note that it&#39;s guaranteed that the email&nbsp;field is not NULL.</p>
+ 
 
-<p>Return the result table in <strong>any order</strong>.</p>
+Write a solution to report all the duplicate emails. Note that it's guaranteed that the email field is not NULL.
 
-<p>The&nbsp;result format is in the following example.</p>
+Return the result table in any order.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+The result format is in the following example.
 
-<pre>
-<strong>Input:</strong> 
+ 
+Example 1:
+
+Input: 
 Person table:
 +----+---------+
 | id | email   |
@@ -39,15 +37,34 @@ Person table:
 | 2  | c@d.com |
 | 3  | a@b.com |
 +----+---------+
-<strong>Output:</strong> 
+Output: 
 +---------+
 | Email   |
 +---------+
 | a@b.com |
 +---------+
-<strong>Explanation:</strong> a@b.com is repeated two times.
-</pre>
+Explanation: a@b.com is repeated two times.
 
+## Examples
+
+```
+Input: 
+Person table:
++----+---------+
+| id | email   |
++----+---------+
+| 1  | a@b.com |
+| 2  | c@d.com |
+| 3  | a@b.com |
++----+---------+
+Output: 
++---------+
+| Email   |
++---------+
+| a@b.com |
++---------+
+Explanation: a@b.com is repeated two times.
+```
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

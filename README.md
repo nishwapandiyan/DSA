@@ -48,6 +48,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 181 | [Employees Earning More Than Their Managers](./Database/Employees%20Earning%20More%20Than%20Their%20Managers/) | Easy |
 | 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
 | 183 | [Customers Who Never Order](./Database/Customers%20Who%20Never%20Order/) | Easy |
+| 184 | [Department Highest Salary](./Database/Department%20Highest%20Salary/) | Medium |
 | 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
 | 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
 | 596 | [Classes With at Least 5 Students](./Database/Classes%20With%20at%20Least%205%20Students/) | Easy |

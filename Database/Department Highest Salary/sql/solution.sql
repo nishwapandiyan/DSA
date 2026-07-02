@@ -1,3 +1,3 @@
-SELECT departmentId, MAX(salary)
+SELECT departmentId, name, MAX(salary)
 FROM Employee
 GROUP BY departmentId;
